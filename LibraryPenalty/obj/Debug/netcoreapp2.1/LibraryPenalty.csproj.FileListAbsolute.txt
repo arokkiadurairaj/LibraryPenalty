@@ -1,0 +1,80 @@
+C:\Arokkia\Personal\Projects\Angular-MVC\LibraryPenalty\LibraryPenalty\LibraryPenalty\bin\Debug\netcoreapp2.1\LibraryPenalty.deps.json
+C:\Arokkia\Personal\Projects\Angular-MVC\LibraryPenalty\LibraryPenalty\LibraryPenalty\bin\Debug\netcoreapp2.1\LibraryPenalty.runtimeconfig.json
+C:\Arokkia\Personal\Projects\Angular-MVC\LibraryPenalty\LibraryPenalty\LibraryPenalty\bin\Debug\netcoreapp2.1\LibraryPenalty.runtimeconfig.dev.json
+C:\Arokkia\Personal\Projects\Angular-MVC\LibraryPenalty\LibraryPenalty\LibraryPenalty\bin\Debug\netcoreapp2.1\LibraryPenalty.dll
+C:\Arokkia\Personal\Projects\Angular-MVC\LibraryPenalty\LibraryPenalty\LibraryPenalty\bin\Debug\netcoreapp2.1\LibraryPenalty.pdb
+C:\Arokkia\Personal\Projects\Angular-MVC\LibraryPenalty\LibraryPenalty\LibraryPenalty\bin\Debug\netcoreapp2.1\LibraryPenalty.Views.dll
+C:\Arokkia\Personal\Projects\Angular-MVC\LibraryPenalty\LibraryPenalty\LibraryPenalty\bin\Debug\netcoreapp2.1\LibraryPenalty.Views.pdb
+C:\Arokkia\Personal\Projects\Angular-MVC\LibraryPenalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.csproj.CoreCompileInputs.cache
+C:\Arokkia\Personal\Projects\Angular-MVC\LibraryPenalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.RazorAssemblyInfo.cache
+C:\Arokkia\Personal\Projects\Angular-MVC\LibraryPenalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.RazorAssemblyInfo.cs
+C:\Arokkia\Personal\Projects\Angular-MVC\LibraryPenalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.AssemblyInfoInputs.cache
+C:\Arokkia\Personal\Projects\Angular-MVC\LibraryPenalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.AssemblyInfo.cs
+C:\Arokkia\Personal\Projects\Angular-MVC\LibraryPenalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.TagHelpers.input.cache
+C:\Arokkia\Personal\Projects\Angular-MVC\LibraryPenalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.TagHelpers.output.cache
+C:\Arokkia\Personal\Projects\Angular-MVC\LibraryPenalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.RazorCoreGenerate.cache
+C:\Arokkia\Personal\Projects\Angular-MVC\LibraryPenalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.RazorTargetAssemblyInfo.cache
+C:\Arokkia\Personal\Projects\Angular-MVC\LibraryPenalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.RazorTargetAssemblyInfo.cs
+C:\Arokkia\Personal\Projects\Angular-MVC\LibraryPenalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.Views.pdb
+C:\Arokkia\Personal\Projects\Angular-MVC\LibraryPenalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.dll
+C:\Arokkia\Personal\Projects\Angular-MVC\LibraryPenalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.pdb
+C:\Arokkia\Personal\Projects\Angular-MVC\LibraryPenalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.csproj.CopyComplete
+C:\Arokkia\Personal\Projects\Angular-MVC\LibraryPenalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Arokkia\Personal\Projects\Angular-MVC\LibraryPenalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Arokkia\Personal\Projects\Angular-MVC\LibraryPenalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Arokkia\Personal\Projects\Angular-MVC\LibraryPenalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Arokkia\Personal\Projects\Angular-MVC\LibraryPenalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Arokkia\Personal\Projects\Angular-MVC\LibraryPenalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Arokkia\Personal\Projects\Angular-MVC\LibraryPenalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Arokkia\Personal\Projects\Angular-MVC\LibraryPenalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Arokkia\Personal\Projects\Angular-MVC\LibraryPenalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Arokkia\Personal\Projects\Angular-MVC\LibraryPenalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Arokkia\Personal\Projects\Angular-MVC\LibraryPenalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.csprojAssemblyReference.cache
+C:\Arokkia\Personal\Projects\MVC An\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.csprojAssemblyReference.cache
+C:\Arokkia\Personal\Projects\MVC An\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.dll
+C:\Arokkia\Personal\Projects\MVC An\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.pdb
+C:\Arokkia\Personal\Projects\MVC An\LibraryPenalty\LibraryPenalty\bin\Debug\netcoreapp2.1\LibraryPenalty.deps.json
+C:\Arokkia\Personal\Projects\MVC An\LibraryPenalty\LibraryPenalty\bin\Debug\netcoreapp2.1\LibraryPenalty.runtimeconfig.json
+C:\Arokkia\Personal\Projects\MVC An\LibraryPenalty\LibraryPenalty\bin\Debug\netcoreapp2.1\LibraryPenalty.runtimeconfig.dev.json
+C:\Arokkia\Personal\Projects\MVC An\LibraryPenalty\LibraryPenalty\bin\Debug\netcoreapp2.1\LibraryPenalty.dll
+C:\Arokkia\Personal\Projects\MVC An\LibraryPenalty\LibraryPenalty\bin\Debug\netcoreapp2.1\LibraryPenalty.pdb
+C:\Arokkia\Personal\Projects\MVC An\LibraryPenalty\LibraryPenalty\bin\Debug\netcoreapp2.1\LibraryPenalty.Views.dll
+C:\Arokkia\Personal\Projects\MVC An\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.csproj.CoreCompileInputs.cache
+C:\Arokkia\Personal\Projects\MVC An\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.RazorAssemblyInfo.cache
+C:\Arokkia\Personal\Projects\MVC An\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.RazorAssemblyInfo.cs
+C:\Arokkia\Personal\Projects\MVC An\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.AssemblyInfoInputs.cache
+C:\Arokkia\Personal\Projects\MVC An\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.AssemblyInfo.cs
+C:\Arokkia\Personal\Projects\MVC An\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.RazorTargetAssemblyInfo.cache
+C:\Arokkia\Personal\Projects\MVC An\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.csproj.CopyComplete
+C:\Users\arnadar\Desktop\Library Penalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.csprojAssemblyReference.cache
+C:\Users\arnadar\Desktop\Library Penalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.dll
+C:\Users\arnadar\Desktop\Library Penalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.pdb
+C:\Users\arnadar\Desktop\Library Penalty\LibraryPenalty\LibraryPenalty\bin\Debug\netcoreapp2.1\LibraryPenalty.deps.json
+C:\Users\arnadar\Desktop\Library Penalty\LibraryPenalty\LibraryPenalty\bin\Debug\netcoreapp2.1\LibraryPenalty.runtimeconfig.json
+C:\Users\arnadar\Desktop\Library Penalty\LibraryPenalty\LibraryPenalty\bin\Debug\netcoreapp2.1\LibraryPenalty.runtimeconfig.dev.json
+C:\Users\arnadar\Desktop\Library Penalty\LibraryPenalty\LibraryPenalty\bin\Debug\netcoreapp2.1\LibraryPenalty.dll
+C:\Users\arnadar\Desktop\Library Penalty\LibraryPenalty\LibraryPenalty\bin\Debug\netcoreapp2.1\LibraryPenalty.pdb
+C:\Users\arnadar\Desktop\Library Penalty\LibraryPenalty\LibraryPenalty\bin\Debug\netcoreapp2.1\LibraryPenalty.Views.dll
+C:\Users\arnadar\Desktop\Library Penalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.csproj.CoreCompileInputs.cache
+C:\Users\arnadar\Desktop\Library Penalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.RazorAssemblyInfo.cache
+C:\Users\arnadar\Desktop\Library Penalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.RazorAssemblyInfo.cs
+C:\Users\arnadar\Desktop\Library Penalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.AssemblyInfoInputs.cache
+C:\Users\arnadar\Desktop\Library Penalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.AssemblyInfo.cs
+C:\Users\arnadar\Desktop\Library Penalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.RazorTargetAssemblyInfo.cache
+C:\Users\arnadar\Desktop\Library Penalty\LibraryPenalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.csproj.CopyComplete
+C:\Users\arnadar\Desktop\Library Penalty\Penalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.csprojAssemblyReference.cache
+C:\Users\arnadar\Desktop\Library Penalty\Penalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.dll
+C:\Users\arnadar\Desktop\Library Penalty\Penalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.pdb
+C:\Users\arnadar\Desktop\Library Penalty\Penalty\LibraryPenalty\bin\Debug\netcoreapp2.1\LibraryPenalty.deps.json
+C:\Users\arnadar\Desktop\Library Penalty\Penalty\LibraryPenalty\bin\Debug\netcoreapp2.1\LibraryPenalty.runtimeconfig.json
+C:\Users\arnadar\Desktop\Library Penalty\Penalty\LibraryPenalty\bin\Debug\netcoreapp2.1\LibraryPenalty.runtimeconfig.dev.json
+C:\Users\arnadar\Desktop\Library Penalty\Penalty\LibraryPenalty\bin\Debug\netcoreapp2.1\LibraryPenalty.dll
+C:\Users\arnadar\Desktop\Library Penalty\Penalty\LibraryPenalty\bin\Debug\netcoreapp2.1\LibraryPenalty.pdb
+C:\Users\arnadar\Desktop\Library Penalty\Penalty\LibraryPenalty\bin\Debug\netcoreapp2.1\LibraryPenalty.Views.dll
+C:\Users\arnadar\Desktop\Library Penalty\Penalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.csproj.CoreCompileInputs.cache
+C:\Users\arnadar\Desktop\Library Penalty\Penalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.RazorAssemblyInfo.cache
+C:\Users\arnadar\Desktop\Library Penalty\Penalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.RazorAssemblyInfo.cs
+C:\Users\arnadar\Desktop\Library Penalty\Penalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.AssemblyInfoInputs.cache
+C:\Users\arnadar\Desktop\Library Penalty\Penalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.AssemblyInfo.cs
+C:\Users\arnadar\Desktop\Library Penalty\Penalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.RazorTargetAssemblyInfo.cache
+C:\Users\arnadar\Desktop\Library Penalty\Penalty\LibraryPenalty\obj\Debug\netcoreapp2.1\LibraryPenalty.csproj.CopyComplete

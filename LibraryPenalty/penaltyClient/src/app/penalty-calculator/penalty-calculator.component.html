@@ -1,0 +1,36 @@
+<div class="row justify-content-center">
+  <h1>Penalty Calculator</h1>
+</div>
+<div  class="row justify-content-center mt-5">
+  <div>
+    <label for="checkOutDate">Checkout Date</label>
+    <input type="date" class="form-control" id="checkOutDate" [(ngModel)]="calculateModel.checkoutDate">
+  </div>
+  <div>
+    <label for="returnDate">Return Date</label>
+    <input type="date" class="form-control" id="returnDate" [(ngModel)]="calculateModel.returnDate">
+  </div>
+  <div>
+    <label for="country">Country</label><br/>
+    <select id="country" class="form-control" [(ngModel)]="calculateModel.countryId">
+      <option value="0">Select Country</option>
+      <option *ngFor="let country of Countries" [value]="country.countryId">{{country.countryName}}</option>
+    </select>
+  </div>
+</div>
+<div  class="row justify-content-center mt-5">
+  <button (click)="calculatePenalty()">Calculate Penalty</button>
+</div>
+<ng-container *ngIf='(penaltyModel) !== null'>
+  <div class="mt-5">
+    <div class="row justify-content-center">
+      <h3>Penalty Amount : {{penaltyModel.penaltyAmount | currency : penaltyModel.currencyCode}}</h3>
+    </div>
+    <div class="row justify-content-center">
+      <h3>Business Days Elapsed : {{penaltyModel.businessdays}}</h3>
+    </div>
+  </div>
+
+</ng-container>
+
+
